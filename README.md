@@ -1,4 +1,4 @@
-# 🎵 Zomato Music Player
+# 🍅 Zomato Music Player 🎵
 
 A Spotify-inspired music player web app built as a learning project.
 
