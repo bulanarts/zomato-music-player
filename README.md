@@ -1,6 +1,6 @@
 # 🍅 Zomato Music Player 🎵
 
-A Spotify-inspired music player web app built as a learning project.
+A Spotify-inspired music player web app built as a learning project. This is a full-stack Spotify clone that manages its own music library instead of using the Spotify API — featuring user auth,real-time listening, and an admin panel to upload songs and albums.
 
 ---
 
